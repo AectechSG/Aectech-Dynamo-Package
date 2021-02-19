@@ -5,11 +5,18 @@
 
 Aectech Dynamo package is a free to use dynamo package that consist of many handy tools which includes, but not limited to, Computer Vision, MongoDB, Dialux, and many more...
 
-
 ## Get Aectech Dynamo Package ##
 
 Looking to download Aectech Dynamo Package?  Check out the [release](https://github.com/AectechSG/Aectech-Dynamo-Package/releases) page!
 
+
+## Supported Application And Version ##
+Currently, this package supports:
++ Dynamo core : 1.3, 2 - 2.5
++ Dynamo for Revit: 1.3, 2, 2.1, 2.3, 2.5
++ Dynamo for Civil3D: 2.1
+
+Note: We do not support the functionality of dynamo 1.3 anymore. Please use it at your own risk.
 
 ## Wiki ###
 
