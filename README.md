@@ -12,8 +12,8 @@ Looking to download Aectech Dynamo Package?  Check out the [release](https://git
 
 ## Supported Application And Version ##
 Currently, this package supports:
-+ Dynamo core : 2 - 2.5
-+ Dynamo for Revit: 2, 2.1, 2.3, 2.5
++ Dynamo core : 2 - 2.6
++ Dynamo for Revit: 2, 2.1, 2.3, 2.5, 2.6
 + Dynamo for Civil3D: 2.1
 
 Note: We do not support the functionality of dynamo 1.3. Please use it at your own risk.
