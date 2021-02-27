@@ -25,7 +25,7 @@ You can learn more about the nodes available in the package at the [Aectech Dyna
 
 ## Contribute ##
 
-As this is not an open source project, you can contribute by logging any issues you encountered while using the Aectech Dynamo Package or set of features you wish to be included as part of your dynamo workflow at the [issue tab](https://github.com/AectechSG/Aectech-Dynamo-Package/issues)
+As this is not an open source project, you can contribute by logging any issues/set of features you wish to be included as part of your dynamo workflow at the [issue tab](https://github.com/AectechSG/Aectech-Dynamo-Package/issues)
 
 
 ## Releases ##
