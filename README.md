@@ -20,7 +20,7 @@ Note: We do not support the functionality of dynamo 1.3. Please use it at your o
 
 ## Wiki ###
 
-You can learn more about the nodes available in the package at the [Aectech Dynamo package wiki](https://github.com/AectechSG/Aectech-Dynamo-Package/wiki) or the [blog site](http://aectechy.com/blog/).
+You can learn more about the nodes available in the package at the [Aectech Dynamo package wiki](https://github.com/AectechSG/Aectech-Dynamo-Package/wiki) or the official [blog site](http://aectechy.com/blog/).
 
 
 ## Contribute ##
@@ -30,9 +30,9 @@ As this is not an open source project, you can contribute by logging any issues/
 
 ## Releases ##
 
-See the [Release Notes](https://github.com/AectechSG/Aectech-Dynamo-Package/wiki/Release-Notes).
+See the [Release page](https://github.com/AectechSG/Aectech-Dynamo-Package/releases).
 
 
 ## Help ##
 
-Need any help and ideas to develop own custom solutions? Checkout [our official website](https://aec-tech.net/) and [our blogs](http://aectechy.com/blog/) for more information.
+Need any help and ideas to develop own custom solutions? Checkout [our official website](https://aec-tech.net/) and our [blog site](http://aectechy.com/blog/) for more information.
