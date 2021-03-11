@@ -7,7 +7,7 @@ Aectech Dynamo package is a free to use dynamo package that consist of many hand
 
 ## Get Aectech Dynamo Package ##
 
-Looking to download Aectech Dynamo Package?  Check out the [release](https://github.com/AectechSG/Aectech-Dynamo-Package/releases) page!
+Looking to download Aectech Dynamo Package?  Download the installer (.msi) at the [release](https://github.com/AectechSG/Aectech-Dynamo-Package/releases) page! And simply run the installer !
 
 
 ## Supported Application And Version ##
@@ -23,9 +23,9 @@ Note: We do not support the functionality of dynamo 1.3. Please use it at your o
 You can learn more about the nodes available in the package at the [Aectech Dynamo package wiki](https://github.com/AectechSG/Aectech-Dynamo-Package/wiki) or the official [blog site](http://aectechy.com/blog/).
 
 
-## Contribute ##
+## Bugs/ Wishlist ##
 
-As this is not an open source project, you can contribute by logging any issues/set of features you wish to be included as part of your dynamo workflow at the [issue tab](https://github.com/AectechSG/Aectech-Dynamo-Package/issues)
+Please log any issues or include wishlist features to be included at the [issue tab](https://github.com/AectechSG/Aectech-Dynamo-Package/issues)
 
 
 ## Releases ##
