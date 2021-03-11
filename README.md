@@ -3,7 +3,12 @@
   <img width="128" height="128" img src="https://github.com/AectechSG/Aectech-Dynamo-Package/blob/main/.resources/AECTech%20Icon.png?raw=true">
 </p>
 
-Aectech Dynamo package is a free to use dynamo package that consist of many handy tools which includes, but not limited to, Computer Vision, MongoDB, Dialux, and many more...
+Aectech Dynamo package is a free to use dynamo package that includes features such as ...
++ Dialux
++ Computer Vision
++ MongoDB
++ Excel Visualization
++ and many more !
 
 ## Get Aectech Dynamo Package ##
 
