@@ -25,7 +25,7 @@ You can learn more about the nodes available in the package at the [Aectech Dyna
 
 ## Bugs/ Wishlist ##
 
-Please log any issues or include wishlist features to be included at the [issue tab](https://github.com/AectechSG/Aectech-Dynamo-Package/issues)
+Please log any issues or include any wishlist features  at the [issue tab](https://github.com/AectechSG/Aectech-Dynamo-Package/issues).
 
 
 ## Releases ##
